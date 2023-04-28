@@ -10,5 +10,4 @@ How to do this without feeling didactic?
 
 
 ## Unreal engine 5 Learning notes
-# ctrl+spacec = 
-content drawer (press ctrl and space together, you can call content drawer in screen)
+ctrl+spacec = content drawer (press ctrl and space together, you can call content drawer in screen)
