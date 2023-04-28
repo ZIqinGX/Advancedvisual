@@ -1,0 +1,7 @@
+# week11 Exploring the Boundaries of Worldbuilding: From Obsolescence to Protopias
+
+How to let your players know which objects are interactive?
+
+How to let your players know where they can move and what they can do in this environment?
+
+How to do this without feeling didactic?
