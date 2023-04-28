@@ -15,3 +15,5 @@ shortcut **"ctrl"** +**"space"** = content drawer (press ctrl and space together
 select an **"object"** in outliner and press **"f"** then camera will focus on the object selected.
 
 **left mouse** + **Alt** = rotate around a pivot of object 
+
+**right mouse**+ **Alt** = zoom in and out
