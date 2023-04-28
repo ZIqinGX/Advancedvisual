@@ -5,3 +5,9 @@ How to let your players know which objects are interactive?
 How to let your players know where they can move and what they can do in this environment?
 
 How to do this without feeling didactic?
+
+
+
+
+## Unreal engine 5 Learning notes
+ctrl+Space = content drawer (press ctrl and space together, you can call content drawer in screen)
